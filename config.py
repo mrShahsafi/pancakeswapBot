@@ -135,9 +135,9 @@ PANCAKE_ABI = '[{"inputs":[{"internalType":"address","name":"_factory","type":"a
               '{"stateMutability":"payable","type":"receive"}] '  # ABI stands for application binary interface.  Static
 
 
-ETHER_PUBLIC_KEY = '0x0DAb5867775B71f1964a16031e2f507b7D4Fe237'  # the Ether wallet public key
+ETHER_PUBLIC_KEY = ''  # the Ether wallet public key
 
-ETHER_PRIVATE_KEY = '8339d13d008755df08863639c04f44be66613ac2cf0d7e52ccee70aeab66b68e'  # the Ether wallet Private key
+ETHER_PRIVATE_KEY = ''  # the Ether wallet Private key
 
 
-TOKEN_CONTRACT_ADDRESS = '0x6615a63c260be84974166a5eddff223ce292cf3d'  # the token address
+TOKEN_CONTRACT_ADDRESS = ''  # the token address
